@@ -156,21 +156,5 @@ git pull 远程库地址别名 远程分支名
 
 ![img](http://kmknkk.oss-cn-beijing.aliyuncs.com/image/git.jpg)
 
-## 6、
-
-
-
-## 7、
-
-
-
-## 8、
-
-
-
-## 9、
-
-
-
-## 10、
+## 
 

@@ -1290,7 +1290,7 @@ start-dfs.sh
 start-yarn.sh
 ```
 
-## 启动hive客户端命令
+## 启动 Hive 客户端命令
 ```shell
 cd /export/server/hive
 
